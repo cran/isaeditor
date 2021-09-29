@@ -1,0 +1,4 @@
+Source Name	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Sex]	Protocol REF	Performer	Sample Name	Characteristics[External links]	Characteristics[Cell origin]	Term Source REF	Term Accession Number	Characteristics[Cell type]	Term Source REF	Term Accession Number
+alpha	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	UNKNOWN	Sample collection		alpha-N1							
+beta	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	UNKNOWN	Sample collection		beta-N1							
+gamma	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	UNKNOWN	Sample collection		gamma-N1							
